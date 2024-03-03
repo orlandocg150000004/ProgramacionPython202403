@@ -42,3 +42,4 @@ Emplear el siguiente manual de instalación [link](https://gdelgador.github.io/P
 - [Documentación Numpy Style](https://numpydoc.readthedocs.io/en/latest/format.html)
 - [Intro Jupyter Notebook](https://www.youtube.com/watch?v=CwbMaSkKDZg&ab_channel=RafaGonzalezGouveia)
 - [Guia Trabajando con Git](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
+- [GitHub CodeSpaces](https://www.youtube.com/watch?v=pmVx7Ic3ITE&ab_channel=FaztCode)
